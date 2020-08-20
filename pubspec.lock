@@ -222,7 +222,7 @@ packages:
     source: hosted
     version: "14.2.4"
   ml_dataframe:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: ml_dataframe
       url: "https://pub.dartlang.org"
